@@ -1,0 +1,35 @@
+
+1. HTML
+2. CSS
+3. JavaScript
+4. Version Control/Git
+5. Responsive Design
+6. JavaScript Libraries and Frameworks
+    - React
+    - Next js 
+    - TypeScript 
+    - Redux 
+    - RTK Query 
+    - React Native 
+    - Other Important Package 
+    - Vue.js
+    - Angular
+7. CSS Frameworks
+    - Bootstrap
+    - Tailwind CSS
+8. Package Managers
+    - npm
+    - Yarn
+9. Build Tools
+    - Webpack
+    - Parcel
+10. APIs
+11. Testing
+    - Jest
+    - Cypress
+12. Design Tools
+    - Figma
+    - Sketch
+13. Soft Skills
+    - Problem-Solving
+    - Communication
