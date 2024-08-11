@@ -33,3 +33,109 @@
 13. Soft Skills
     - Problem-Solving
     - Communication
+    
+    
+    
+    
+    
+   ** 1. HTML & CSS Basics
+Learn HTML: Tags, attributes, forms, semantic HTML.
+Learn CSS: Selectors, box model, positioning, flexbox, grid, responsive design.
+
+** 2. JavaScript Fundamentals
+Syntax & Basics: Variables, data types, operators, loops, functions.
+DOM Manipulation: Selecting elements, event listeners, modifying the DOM.
+ES6 Features: Arrow functions, destructuring, template literals, modules.
+
+** 3. Version Control with Git
+Basic Commands: Clone, commit, push, pull, branching.
+  Collaboration: Working with teams, resolving merge conflicts.
+  
+** 4. Advanced JavaScript
+Asynchronous JS: Callbacks, Promises, async / await.
+Deep Dive: Closures, prototypal inheritance, the event loop.
+
+** 5. Modern JavaScript Frameworks(React)
+React Basics: Components, JSX, props, state, lifecycle methods.
+  Hooks: useState, useEffect, useContext, custom hooks.
+    Routing: React Router, dynamic routing, route guards.
+    
+** 6. State Management
+Context API: Global state management.
+  Redux / Zustand: Advanced state management, middleware, async actions.
+  
+** 7. TypeScript
+Basic Concepts: Types, interfaces, enums, generics.
+TypeScript with React: Typing props, state, hooks.
+
+
+** 8. Styling and Design Systems
+CSS -in -JS: Styled Components, Emotion.
+Component Libraries: MUI, Ant Design, Tailwind CSS.
+Design Systems: Creating and maintaining a design system with Storybook.
+
+
+** 9. APIs and Data Fetching
+REST APIs: Fetching data with fetch, Axios.
+  GraphQL: Writing queries and mutations, Apollo Client integration.
+Backend for Frontend: Building basic Node.js / Express servers.
+
+
+** 10. Testing and Quality Assurance
+Unit Testing: Writing tests with Jest and React Testing Library.
+Integration Testing: Testing interactions between components.
+  End - to - End Testing: Cypress for full user journey tests.
+  
+  
+** 11. Web Performance Optimization
+Performance Audits: Using Lighthouse, analyzing performance metrics.
+Optimization Techniques: Lazy loading, code - splitting, caching strategies.
+
+
+** 12. Version Control Advanced
+Advanced Git: Rebasing, cherry - picking, stashing.
+  CI / CD Pipelines: Automating testing and deployment with GitHub Actions, Jenkins.
+  
+  
+** 13. DevOps Basics
+Containerization: Docker basics, creating Dockerfiles, using Docker Compose.
+  Orchestration: Introduction to Kubernetes.
+Cloud Deployment: Deploying applications on AWS, Azure, or GCP.
+
+
+** 14. Web Security
+Security Fundamentals: Understanding XSS, CSRF, CORS.
+Best Practices: Secure coding practices, HTTPS, content security policies.
+
+
+** 15. Soft Skills and Communication
+Collaboration Tools: Jira, Slack, Trello.
+  Teamwork: Agile methodologies, code reviews, pair programming.
+    Leadership: Mentoring junior developers, leading projects.
+    
+    
+** 16. Advanced Front - End Architecture
+Micro - frontends: Architecture for large - scale applications.
+  Server - Side Rendering(SSR): Next.js for SSR and static site generation(SSG).
+Scalable Front - End Architecture: Best practices for maintaining large codebases.
+
+
+** 17. Contributing to Open Source
+Open Source Projects: Find and contribute to relevant projects on GitHub.
+Building Your Own Projects: Create and share your projects to build your portfolio.
+
+
+** 18. Stay Updated
+Follow Industry Trends: Blogs, newsletters, conferences.
+Continuous Learning: Take advanced courses, participate in hackathons, engage with developer communities.
+
+
+** 19. Prepare for Job Market
+Portfolio: Showcase your projects, contributions, and design systems.
+  Resume & LinkedIn: Tailor your resume for front - end roles, optimize LinkedIn.
+Mock Interviews: Practice coding challenges, behavioral questions, system design.
+
+
+** 20. Apply for Jobs
+Job Search: Apply to roles that align with your skill set and salary goals.
+Negotiate Salary: Understand your worth, negotiate based on market standards and your skill set.
