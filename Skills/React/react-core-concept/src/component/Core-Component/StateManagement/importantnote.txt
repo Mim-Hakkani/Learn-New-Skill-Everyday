@@ -1,0 +1,12 @@
+Which State to Use?
+
+1.Simple, Local State: Use useState for simple state management within a component.
+
+2.Shared State Across Components: Use Context or a global state management library like Zustand or Redux.
+
+
+3.Server-Side Data: Use data-fetching libraries like React Query or Apollo Client.
+
+4.Complex Form State: Use specialized form libraries like React Hook Form.
+
+5.Derived State: Calculate it on the fly using useMemo or inside the render method.
